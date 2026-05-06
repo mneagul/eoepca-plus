@@ -3,3 +3,4 @@ resources:
   - namespace-knative-eventing.yaml
   - knative-serving.yaml
   - knative-eventing.yaml
+  - apisixroute.yaml
